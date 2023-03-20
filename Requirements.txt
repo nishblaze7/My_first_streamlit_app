@@ -1,3 +1,8 @@
+pip install pipreqs
+
+pipreqs /path/to/project
+
+
 Package               Version
 --------------------- -----------
 altair                4.2.2      
